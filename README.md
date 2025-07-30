@@ -1,4 +1,4 @@
-# Power BI Data Analytics Project
+# Power BI for Data Analytics
 
 ## 📊 Overview
 
